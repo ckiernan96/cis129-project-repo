@@ -50,3 +50,4 @@ print()
 print()
 print('Please leave us a good review on Yelp!\
      \nIt really helps out the business')
+input('Press ENTER to exit')
